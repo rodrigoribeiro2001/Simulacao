@@ -1,5 +1,6 @@
 1º Questão
 Oque é uma branch?
+ É uma ramificação do repositório, permite desenvolver uma versão paralela e testar e só depois fazer o merge. 
 
 2º Questão
 Oque é merge?
